@@ -1,4 +1,4 @@
-# Simulador de Sistemas de Arquivos
+# Simulador de Sistema de Arquivos
 
 Esse projeto oferece uma interface gráfica para interação e simula as principais operações de um sistema de arquivos. As informações das pastas e arquivos criados pelo usuário são armazenadas em um HD simulado.
 
